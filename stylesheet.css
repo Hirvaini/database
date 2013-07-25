@@ -1,0 +1,39 @@
+/* 
+    Document   : stylesheet
+    Created on : 25 Ιουλ 2013, 11:00:49 πμ
+    Author     : Χρήστος
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+  
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    color: #555;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 1.4em;
+    color: #be7429;
+    font-weight: normal;
+    width: 450px;
+}
+
+table {
+    width: 680px;
+    padding: 10px;
+    background-color: #c5e7e0;
+}
+
+th {
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
