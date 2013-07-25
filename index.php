@@ -8,7 +8,8 @@
     <body>
         <h1>Ασθενείς</h1>
 <?php
-//a test coment for git
+//a test comment for git
+//this is another git comment
 
 $con = mysqli_connect("localhost","tsitobello","ecvp18","joomladb");
 mysqli_query(  $con, "SET NAMES utf8" );
